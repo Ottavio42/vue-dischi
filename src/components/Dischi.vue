@@ -1,7 +1,7 @@
 <template>
   <div class="container dischi-cont" >
        <div class="disco-cont" v-for="(elm, index) in dischi" :key="index">
-            <Album :info="elm" />
+            <Disco :info="elm" />
       </div>
   </div>
 </template>
