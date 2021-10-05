@@ -1,7 +1,7 @@
 <template>
   <header class="head-cont">
       <div class="logo">
-        <img src="../assets/img/spotify-logo.png" alt="Logo Spotify">
+        <img src="../assets/img/spotify-logo.png"  alt="Logo Spotify">
       </div>
   </header>
 </template>
